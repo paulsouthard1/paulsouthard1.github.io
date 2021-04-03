@@ -1,2 +1,4 @@
 name: Caitie McCafferty
 markdown: kramdown
+collections:
+  - research_topics
