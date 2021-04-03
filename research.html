@@ -2,7 +2,7 @@
 layout: default
 title: Research
 ---
-{% for topic in site.research_topics %}
-  <h2>{{ topic.topic }}</h2>
-  <p>{{ topic.content | markdownify }}</p>
+{% for research_topic in site.research_topics %}
+  <h2>{{ research_topic.topic }}</h2>
+  <p>{{ research_topic.content | markdownify }}</p>
 {% endfor %}
