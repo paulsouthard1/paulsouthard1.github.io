@@ -1,0 +1,4 @@
+{% for topic in site.research_topics %}
+  <h2>{{ topic.topic }}</h2>
+  <p>{{ topic.content | markdownify }}</p>
+{% endfor %}
