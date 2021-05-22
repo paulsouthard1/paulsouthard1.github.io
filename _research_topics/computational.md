@@ -1,5 +1,4 @@
 ---
-topic: Structural Biology
+topic: Computational Biology
 ---
-
-I'm interested in defining the structures of **the** biology!
+I love to use computes for **solving** the biology.
